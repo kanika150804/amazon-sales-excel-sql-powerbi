@@ -38,7 +38,6 @@ The project focuses on data cleaning, analysis, and deriving insights using Exce
      - Revenue trends
      - Discount impact
      - Product & category performance  
-   (Power BI file will be uploaded soon)
 
 
 Author
